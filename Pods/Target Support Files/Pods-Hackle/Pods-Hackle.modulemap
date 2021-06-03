@@ -1,0 +1,6 @@
+framework module Pods_Hackle {
+  umbrella header "Pods-Hackle-umbrella.h"
+
+  export *
+  module * { export * }
+}

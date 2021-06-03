@@ -6,7 +6,7 @@ target 'Hackle' do
   use_frameworks!
 
   # Pods for Hackle
-
+  pod 'Firebase/Firestore' # FirebaseのFireStoreをインストール
   target 'HackleTests' do
     inherit! :search_paths
     # Pods for testing

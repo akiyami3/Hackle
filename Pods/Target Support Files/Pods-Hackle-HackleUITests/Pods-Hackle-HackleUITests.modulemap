@@ -1,0 +1,6 @@
+framework module Pods_Hackle_HackleUITests {
+  umbrella header "Pods-Hackle-HackleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
